@@ -1,4 +1,4 @@
-#include "DCMotor.h"
+#include "Motor.h"
 
 Motor::Motor(int pin1, int pin2, int freq) {
   pwmPin1 = pin1;
